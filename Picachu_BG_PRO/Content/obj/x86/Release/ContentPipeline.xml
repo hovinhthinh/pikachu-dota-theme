@@ -1,0 +1,1050 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>0.png</Source>
+      <Name>0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\0.xnb</Output>
+      <Time>2012-09-19T09:51:02.3630085+07:00</Time>
+    </Item>
+    <Item>
+      <Source>1.png</Source>
+      <Name>1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\1.xnb</Output>
+      <Time>2012-09-19T09:51:17.7338876+07:00</Time>
+    </Item>
+    <Item>
+      <Source>10.png</Source>
+      <Name>10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\10.xnb</Output>
+      <Time>2012-09-19T09:51:17.7998914+07:00</Time>
+    </Item>
+    <Item>
+      <Source>100.png</Source>
+      <Name>100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\100.xnb</Output>
+      <Time>2012-09-19T09:51:18.4729299+07:00</Time>
+    </Item>
+    <Item>
+      <Source>101.png</Source>
+      <Name>101</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\101.xnb</Output>
+      <Time>2012-09-19T09:51:18.4789302+07:00</Time>
+    </Item>
+    <Item>
+      <Source>102.png</Source>
+      <Name>102</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\102.xnb</Output>
+      <Time>2012-09-19T09:51:18.4859306+07:00</Time>
+    </Item>
+    <Item>
+      <Source>103.png</Source>
+      <Name>103</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\103.xnb</Output>
+      <Time>2012-09-19T09:51:18.491931+07:00</Time>
+    </Item>
+    <Item>
+      <Source>104.png</Source>
+      <Name>104</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\104.xnb</Output>
+      <Time>2012-09-19T09:51:18.4989314+07:00</Time>
+    </Item>
+    <Item>
+      <Source>105.png</Source>
+      <Name>105</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\105.xnb</Output>
+      <Time>2012-09-19T09:51:18.5049317+07:00</Time>
+    </Item>
+    <Item>
+      <Source>106.png</Source>
+      <Name>106</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\106.xnb</Output>
+      <Time>2012-09-19T09:51:18.5119321+07:00</Time>
+    </Item>
+    <Item>
+      <Source>107.png</Source>
+      <Name>107</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\107.xnb</Output>
+      <Time>2012-09-19T09:51:18.5179325+07:00</Time>
+    </Item>
+    <Item>
+      <Source>11.png</Source>
+      <Name>11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\11.xnb</Output>
+      <Time>2012-09-19T09:51:17.8048917+07:00</Time>
+    </Item>
+    <Item>
+      <Source>12.png</Source>
+      <Name>12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\12.xnb</Output>
+      <Time>2012-09-19T09:51:17.810892+07:00</Time>
+    </Item>
+    <Item>
+      <Source>13.png</Source>
+      <Name>13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\13.xnb</Output>
+      <Time>2012-09-19T09:51:17.8148923+07:00</Time>
+    </Item>
+    <Item>
+      <Source>14.png</Source>
+      <Name>14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\14.xnb</Output>
+      <Time>2012-09-19T09:51:17.8228927+07:00</Time>
+    </Item>
+    <Item>
+      <Source>15.png</Source>
+      <Name>15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\15.xnb</Output>
+      <Time>2012-09-19T09:51:17.8318932+07:00</Time>
+    </Item>
+    <Item>
+      <Source>16.png</Source>
+      <Name>16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\16.xnb</Output>
+      <Time>2012-09-19T09:51:17.8398937+07:00</Time>
+    </Item>
+    <Item>
+      <Source>17.png</Source>
+      <Name>17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\17.xnb</Output>
+      <Time>2012-09-19T09:51:17.844894+07:00</Time>
+    </Item>
+    <Item>
+      <Source>18.png</Source>
+      <Name>18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\18.xnb</Output>
+      <Time>2012-09-19T09:51:17.8538945+07:00</Time>
+    </Item>
+    <Item>
+      <Source>19.png</Source>
+      <Name>19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\19.xnb</Output>
+      <Time>2012-09-19T09:51:17.8598948+07:00</Time>
+    </Item>
+    <Item>
+      <Source>2.png</Source>
+      <Name>2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\2.xnb</Output>
+      <Time>2012-09-19T09:51:17.7418881+07:00</Time>
+    </Item>
+    <Item>
+      <Source>20.png</Source>
+      <Name>20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\20.xnb</Output>
+      <Time>2012-09-19T09:51:17.8638951+07:00</Time>
+    </Item>
+    <Item>
+      <Source>21.png</Source>
+      <Name>21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\21.xnb</Output>
+      <Time>2012-09-19T09:51:17.9168981+07:00</Time>
+    </Item>
+    <Item>
+      <Source>22.png</Source>
+      <Name>22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\22.xnb</Output>
+      <Time>2012-09-19T09:51:17.9238985+07:00</Time>
+    </Item>
+    <Item>
+      <Source>23.png</Source>
+      <Name>23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\23.xnb</Output>
+      <Time>2012-09-19T09:51:17.931899+07:00</Time>
+    </Item>
+    <Item>
+      <Source>24.png</Source>
+      <Name>24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\24.xnb</Output>
+      <Time>2012-09-19T09:51:17.9408995+07:00</Time>
+    </Item>
+    <Item>
+      <Source>25.png</Source>
+      <Name>25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\25.xnb</Output>
+      <Time>2012-09-19T09:51:17.9529002+07:00</Time>
+    </Item>
+    <Item>
+      <Source>26.png</Source>
+      <Name>26</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\26.xnb</Output>
+      <Time>2012-09-19T09:51:17.9629007+07:00</Time>
+    </Item>
+    <Item>
+      <Source>27.png</Source>
+      <Name>27</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\27.xnb</Output>
+      <Time>2012-09-19T09:51:17.9719012+07:00</Time>
+    </Item>
+    <Item>
+      <Source>28.png</Source>
+      <Name>28</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\28.xnb</Output>
+      <Time>2012-09-19T09:51:17.9779016+07:00</Time>
+    </Item>
+    <Item>
+      <Source>29.png</Source>
+      <Name>29</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\29.xnb</Output>
+      <Time>2012-09-19T09:51:17.9869021+07:00</Time>
+    </Item>
+    <Item>
+      <Source>3.png</Source>
+      <Name>3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\3.xnb</Output>
+      <Time>2012-09-19T09:51:17.7448883+07:00</Time>
+    </Item>
+    <Item>
+      <Source>30.png</Source>
+      <Name>30</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\30.xnb</Output>
+      <Time>2012-09-19T09:51:17.9969027+07:00</Time>
+    </Item>
+    <Item>
+      <Source>31.png</Source>
+      <Name>31</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\31.xnb</Output>
+      <Time>2012-09-19T09:51:18.0059032+07:00</Time>
+    </Item>
+    <Item>
+      <Source>32.png</Source>
+      <Name>32</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\32.xnb</Output>
+      <Time>2012-09-19T09:51:18.0149037+07:00</Time>
+    </Item>
+    <Item>
+      <Source>33.png</Source>
+      <Name>33</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\33.xnb</Output>
+      <Time>2012-09-19T09:51:18.020904+07:00</Time>
+    </Item>
+    <Item>
+      <Source>34.png</Source>
+      <Name>34</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\34.xnb</Output>
+      <Time>2012-09-19T09:51:18.0279044+07:00</Time>
+    </Item>
+    <Item>
+      <Source>35.png</Source>
+      <Name>35</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\35.xnb</Output>
+      <Time>2012-09-19T09:51:18.0349048+07:00</Time>
+    </Item>
+    <Item>
+      <Source>36.png</Source>
+      <Name>36</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\36.xnb</Output>
+      <Time>2012-09-19T09:51:18.0409052+07:00</Time>
+    </Item>
+    <Item>
+      <Source>37.png</Source>
+      <Name>37</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\37.xnb</Output>
+      <Time>2012-09-19T09:51:18.0489056+07:00</Time>
+    </Item>
+    <Item>
+      <Source>38.png</Source>
+      <Name>38</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\38.xnb</Output>
+      <Time>2012-09-19T09:51:18.0599063+07:00</Time>
+    </Item>
+    <Item>
+      <Source>39.png</Source>
+      <Name>39</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\39.xnb</Output>
+      <Time>2012-09-19T09:51:18.0659066+07:00</Time>
+    </Item>
+    <Item>
+      <Source>4.png</Source>
+      <Name>4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\4.xnb</Output>
+      <Time>2012-09-19T09:51:17.7518887+07:00</Time>
+    </Item>
+    <Item>
+      <Source>40.png</Source>
+      <Name>40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\40.xnb</Output>
+      <Time>2012-09-19T09:51:18.072907+07:00</Time>
+    </Item>
+    <Item>
+      <Source>41.png</Source>
+      <Name>41</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\41.xnb</Output>
+      <Time>2012-09-19T09:51:18.0809075+07:00</Time>
+    </Item>
+    <Item>
+      <Source>42.png</Source>
+      <Name>42</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\42.xnb</Output>
+      <Time>2012-09-19T09:51:18.0889079+07:00</Time>
+    </Item>
+    <Item>
+      <Source>43.png</Source>
+      <Name>43</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\43.xnb</Output>
+      <Time>2012-09-19T09:51:18.0949083+07:00</Time>
+    </Item>
+    <Item>
+      <Source>44.png</Source>
+      <Name>44</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\44.xnb</Output>
+      <Time>2012-09-19T09:51:18.1019087+07:00</Time>
+    </Item>
+    <Item>
+      <Source>45.png</Source>
+      <Name>45</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\45.xnb</Output>
+      <Time>2012-09-19T09:51:18.107909+07:00</Time>
+    </Item>
+    <Item>
+      <Source>46.png</Source>
+      <Name>46</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\46.xnb</Output>
+      <Time>2012-09-19T09:51:18.1149094+07:00</Time>
+    </Item>
+    <Item>
+      <Source>47.png</Source>
+      <Name>47</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\47.xnb</Output>
+      <Time>2012-09-19T09:51:18.1209098+07:00</Time>
+    </Item>
+    <Item>
+      <Source>48.png</Source>
+      <Name>48</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\48.xnb</Output>
+      <Time>2012-09-19T09:51:18.1279102+07:00</Time>
+    </Item>
+    <Item>
+      <Source>49.png</Source>
+      <Name>49</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\49.xnb</Output>
+      <Time>2012-09-19T09:51:18.1339105+07:00</Time>
+    </Item>
+    <Item>
+      <Source>5.png</Source>
+      <Name>5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\5.xnb</Output>
+      <Time>2012-09-19T09:51:17.7588891+07:00</Time>
+    </Item>
+    <Item>
+      <Source>50.png</Source>
+      <Name>50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\50.xnb</Output>
+      <Time>2012-09-19T09:51:18.1399108+07:00</Time>
+    </Item>
+    <Item>
+      <Source>51.png</Source>
+      <Name>51</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\51.xnb</Output>
+      <Time>2012-09-19T09:51:18.1459112+07:00</Time>
+    </Item>
+    <Item>
+      <Source>52.png</Source>
+      <Name>52</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\52.xnb</Output>
+      <Time>2012-09-19T09:51:18.1529116+07:00</Time>
+    </Item>
+    <Item>
+      <Source>53.png</Source>
+      <Name>53</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\53.xnb</Output>
+      <Time>2012-09-19T09:51:18.1589119+07:00</Time>
+    </Item>
+    <Item>
+      <Source>54.png</Source>
+      <Name>54</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\54.xnb</Output>
+      <Time>2012-09-19T09:51:18.1659123+07:00</Time>
+    </Item>
+    <Item>
+      <Source>55.png</Source>
+      <Name>55</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\55.xnb</Output>
+      <Time>2012-09-19T09:51:18.1719127+07:00</Time>
+    </Item>
+    <Item>
+      <Source>56.png</Source>
+      <Name>56</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\56.xnb</Output>
+      <Time>2012-09-19T09:51:18.177913+07:00</Time>
+    </Item>
+    <Item>
+      <Source>57.png</Source>
+      <Name>57</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\57.xnb</Output>
+      <Time>2012-09-19T09:51:18.1849134+07:00</Time>
+    </Item>
+    <Item>
+      <Source>58.png</Source>
+      <Name>58</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\58.xnb</Output>
+      <Time>2012-09-19T09:51:18.1919138+07:00</Time>
+    </Item>
+    <Item>
+      <Source>59.png</Source>
+      <Name>59</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\59.xnb</Output>
+      <Time>2012-09-19T09:51:18.1969141+07:00</Time>
+    </Item>
+    <Item>
+      <Source>6.png</Source>
+      <Name>6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\6.xnb</Output>
+      <Time>2012-09-19T09:51:17.7678896+07:00</Time>
+    </Item>
+    <Item>
+      <Source>60.png</Source>
+      <Name>60</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\60.xnb</Output>
+      <Time>2012-09-19T09:51:18.2039145+07:00</Time>
+    </Item>
+    <Item>
+      <Source>61.png</Source>
+      <Name>61</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\61.xnb</Output>
+      <Time>2012-09-19T09:51:18.2099149+07:00</Time>
+    </Item>
+    <Item>
+      <Source>62.png</Source>
+      <Name>62</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\62.xnb</Output>
+      <Time>2012-09-19T09:51:18.2159152+07:00</Time>
+    </Item>
+    <Item>
+      <Source>63.png</Source>
+      <Name>63</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\63.xnb</Output>
+      <Time>2012-09-19T09:51:18.2219155+07:00</Time>
+    </Item>
+    <Item>
+      <Source>64.png</Source>
+      <Name>64</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\64.xnb</Output>
+      <Time>2012-09-19T09:51:18.2289159+07:00</Time>
+    </Item>
+    <Item>
+      <Source>65.png</Source>
+      <Name>65</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\65.xnb</Output>
+      <Time>2012-09-19T09:51:18.2349163+07:00</Time>
+    </Item>
+    <Item>
+      <Source>66.png</Source>
+      <Name>66</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\66.xnb</Output>
+      <Time>2012-09-19T09:51:18.2409166+07:00</Time>
+    </Item>
+    <Item>
+      <Source>67.png</Source>
+      <Name>67</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\67.xnb</Output>
+      <Time>2012-09-19T09:51:18.246917+07:00</Time>
+    </Item>
+    <Item>
+      <Source>68.png</Source>
+      <Name>68</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\68.xnb</Output>
+      <Time>2012-09-19T09:51:18.2539174+07:00</Time>
+    </Item>
+    <Item>
+      <Source>69.png</Source>
+      <Name>69</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\69.xnb</Output>
+      <Time>2012-09-19T09:51:18.2599177+07:00</Time>
+    </Item>
+    <Item>
+      <Source>7.png</Source>
+      <Name>7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\7.xnb</Output>
+      <Time>2012-09-19T09:51:17.7738899+07:00</Time>
+    </Item>
+    <Item>
+      <Source>70.png</Source>
+      <Name>70</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\70.xnb</Output>
+      <Time>2012-09-19T09:51:18.2669181+07:00</Time>
+    </Item>
+    <Item>
+      <Source>71.png</Source>
+      <Name>71</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\71.xnb</Output>
+      <Time>2012-09-19T09:51:18.2729185+07:00</Time>
+    </Item>
+    <Item>
+      <Source>72.png</Source>
+      <Name>72</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\72.xnb</Output>
+      <Time>2012-09-19T09:51:18.2799189+07:00</Time>
+    </Item>
+    <Item>
+      <Source>73.png</Source>
+      <Name>73</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\73.xnb</Output>
+      <Time>2012-09-19T09:51:18.2869193+07:00</Time>
+    </Item>
+    <Item>
+      <Source>74.png</Source>
+      <Name>74</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\74.xnb</Output>
+      <Time>2012-09-19T09:51:18.2939197+07:00</Time>
+    </Item>
+    <Item>
+      <Source>75.png</Source>
+      <Name>75</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\75.xnb</Output>
+      <Time>2012-09-19T09:51:18.29992+07:00</Time>
+    </Item>
+    <Item>
+      <Source>76.png</Source>
+      <Name>76</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\76.xnb</Output>
+      <Time>2012-09-19T09:51:18.3069204+07:00</Time>
+    </Item>
+    <Item>
+      <Source>77.png</Source>
+      <Name>77</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\77.xnb</Output>
+      <Time>2012-09-19T09:51:18.3129207+07:00</Time>
+    </Item>
+    <Item>
+      <Source>78.png</Source>
+      <Name>78</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\78.xnb</Output>
+      <Time>2012-09-19T09:51:18.3209212+07:00</Time>
+    </Item>
+    <Item>
+      <Source>79.png</Source>
+      <Name>79</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\79.xnb</Output>
+      <Time>2012-09-19T09:51:18.3279216+07:00</Time>
+    </Item>
+    <Item>
+      <Source>8.png</Source>
+      <Name>8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\8.xnb</Output>
+      <Time>2012-09-19T09:51:17.7878907+07:00</Time>
+    </Item>
+    <Item>
+      <Source>80.png</Source>
+      <Name>80</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\80.xnb</Output>
+      <Time>2012-09-19T09:51:18.334922+07:00</Time>
+    </Item>
+    <Item>
+      <Source>81.png</Source>
+      <Name>81</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\81.xnb</Output>
+      <Time>2012-09-19T09:51:18.3419224+07:00</Time>
+    </Item>
+    <Item>
+      <Source>82.png</Source>
+      <Name>82</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\82.xnb</Output>
+      <Time>2012-09-19T09:51:18.3489228+07:00</Time>
+    </Item>
+    <Item>
+      <Source>83.png</Source>
+      <Name>83</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\83.xnb</Output>
+      <Time>2012-09-19T09:51:18.3549231+07:00</Time>
+    </Item>
+    <Item>
+      <Source>84.png</Source>
+      <Name>84</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\84.xnb</Output>
+      <Time>2012-09-19T09:51:18.3619235+07:00</Time>
+    </Item>
+    <Item>
+      <Source>85.png</Source>
+      <Name>85</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\85.xnb</Output>
+      <Time>2012-09-19T09:51:18.3689239+07:00</Time>
+    </Item>
+    <Item>
+      <Source>86.png</Source>
+      <Name>86</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\86.xnb</Output>
+      <Time>2012-09-19T09:51:18.3759243+07:00</Time>
+    </Item>
+    <Item>
+      <Source>87.png</Source>
+      <Name>87</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\87.xnb</Output>
+      <Time>2012-09-19T09:51:18.3819247+07:00</Time>
+    </Item>
+    <Item>
+      <Source>88.png</Source>
+      <Name>88</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\88.xnb</Output>
+      <Time>2012-09-19T09:51:18.387925+07:00</Time>
+    </Item>
+    <Item>
+      <Source>89.png</Source>
+      <Name>89</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\89.xnb</Output>
+      <Time>2012-09-19T09:51:18.3939254+07:00</Time>
+    </Item>
+    <Item>
+      <Source>9.png</Source>
+      <Name>9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\9.xnb</Output>
+      <Time>2012-09-19T09:51:17.7938911+07:00</Time>
+    </Item>
+    <Item>
+      <Source>90.png</Source>
+      <Name>90</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\90.xnb</Output>
+      <Time>2012-09-19T09:51:18.4009258+07:00</Time>
+    </Item>
+    <Item>
+      <Source>91.png</Source>
+      <Name>91</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\91.xnb</Output>
+      <Time>2012-09-19T09:51:18.4069261+07:00</Time>
+    </Item>
+    <Item>
+      <Source>92.png</Source>
+      <Name>92</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\92.xnb</Output>
+      <Time>2012-09-19T09:51:18.4139265+07:00</Time>
+    </Item>
+    <Item>
+      <Source>93.png</Source>
+      <Name>93</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\93.xnb</Output>
+      <Time>2012-09-19T09:51:18.4209269+07:00</Time>
+    </Item>
+    <Item>
+      <Source>94.png</Source>
+      <Name>94</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\94.xnb</Output>
+      <Time>2012-09-19T09:51:18.4279273+07:00</Time>
+    </Item>
+    <Item>
+      <Source>95.png</Source>
+      <Name>95</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\95.xnb</Output>
+      <Time>2012-09-19T09:51:18.4349277+07:00</Time>
+    </Item>
+    <Item>
+      <Source>96.png</Source>
+      <Name>96</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\96.xnb</Output>
+      <Time>2012-09-19T09:51:18.4439282+07:00</Time>
+    </Item>
+    <Item>
+      <Source>97.png</Source>
+      <Name>97</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\97.xnb</Output>
+      <Time>2012-09-19T09:51:18.4509286+07:00</Time>
+    </Item>
+    <Item>
+      <Source>98.png</Source>
+      <Name>98</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\98.xnb</Output>
+      <Time>2012-09-19T09:51:18.4589291+07:00</Time>
+    </Item>
+    <Item>
+      <Source>99.png</Source>
+      <Name>99</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\99.xnb</Output>
+      <Time>2012-09-19T09:51:18.4659295+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Background.png</Source>
+      <Name>Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\Background.xnb</Output>
+      <Time>2012-09-19T10:38:10.3787617+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Slot.png</Source>
+      <Name>Slot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\Slot.xnb</Output>
+      <Time>2012-09-19T16:28:16.1424579+07:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundMusic.mp3</Source>
+      <Name>BackgroundMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\BackgroundMusic.xnb</Output>
+      <Extra>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\BackgroundMusic.wma</Extra>
+      <Time>2012-09-19T19:29:06.5530526+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\Font.xnb</Output>
+      <Time>2012-09-19T19:55:13.3726696+07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-09-17T18:53:25.9839872+07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

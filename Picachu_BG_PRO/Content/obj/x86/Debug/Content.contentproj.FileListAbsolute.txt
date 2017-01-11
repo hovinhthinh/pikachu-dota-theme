@@ -1,0 +1,2 @@
+C:\Users\Ho Vinh Thinh\Documents\Visual Studio 2008\Projects\Picachu_BG_PRO\Picachu_BG_PRO\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\THINHHV\Picachu_BG_PRO\Picachu_BG_PRO\Content\obj\x86\Debug\ResolveAssemblyReference.cache
